@@ -1,8 +1,8 @@
 # Matrix-Multiplication-by-Threading-and-CUDA
 
 **Problem Statement**<br/>
-**Input:** Two n*n matrices. n = 2^k, where k is a natural number.<br/>
-**Output:** A vector of length 2n-1.<br/>
+**Input:** Two N*N matrices. N = 2<sup>K</sup>, where K is a natural number.<br/>
+**Output:** A array/vector of length 2N-1.<br/>
 **Sample:**<br/>
 ![alt text](https://github.com/amansac/Matrix-Multiplication-by-Threading-and-CUDA/blob/main/sample/dmm.png)
 
